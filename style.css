@@ -1,3 +1,97 @@
 .w-layout-grid {
   grid-row-gap: 16px:
   grid-column-gab: 16Px:
+  grid-template-rows: auto auto;
+  grid-template-columns: lfr;
+  display: grid;
+}
+.navbar-logo-center-container {
+  z-index: 5;
+  width: 1030px;
+  max-width: 100%;
+  backgroud-color: rgba(0, 0, 0, 0);
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+}
+.navbar-logo-center-container.shadow-tree {
+  width: 100%;
+  max-width: 1140px;
+}
+.container {
+  width: 100%;
+  max-width: 940px;
+  margin-right: auto;
+}
+.navbar-wrapper-tree {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  position: relative;
+}
+.navbar-brand-tree {
+  z-index: 5;
+  position: absolute;
+}
+.nav-manu-three {
+  justify-conetent: space-between;
+  align-items: center;
+  margin-bottom: 0;
+  display: flex;
+}
+.telas-de-vendas {
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 0;
+  display: flex;
+}
+.nav-link {
+  color: #1a1b1f;
+  letter-spacing: .25px;
+  margin-left: 5px;
+  margin-right: 5px;
+  padding: 5px 10px;
+  line-height: 20px;
+  text-decoration: none;
+}
+.nav-link:hover {
+  color: rgba(26, 27, 31, .75);
+}
+.nav-link:focus-visible {
+  outline-offset: 0px;
+  color: #0050bd;
+  border-radius: 4px;
+  outline: 2px solid #0050bd
+}
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
